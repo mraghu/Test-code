@@ -9,5 +9,7 @@ public class HelloWorld {
 		System.out.println("Hello, world");
 		
 		System.out.println("Save the world");
+		
+		System.out.println("how to remove the annotations");
 	}
 }
